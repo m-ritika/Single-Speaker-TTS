@@ -11,4 +11,4 @@ Text to Speech Synthesis using Speaker Adaptation:-
 
 Recorded Data: https://drive.google.com/drive/folders/1ewKtJPIZlcUdKB-y4qPUBMlIZNKcYhTZ?usp=sharing
 
-Predicted_Spectrogram
+![Predicted_Spectrogram](https://github.com/m-ritika/Single-Speaker-TTS/blob/main/predicted_spectogram.png)
