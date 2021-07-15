@@ -14,3 +14,5 @@
 6. Once the toolbox opens up, Click the Browse button and select the "sample" audio file included
 
 7. Enter the text you want to synthesize in the text box and click synthesize and vocode
+
+1. Download the DEMO folder
